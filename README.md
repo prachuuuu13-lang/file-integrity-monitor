@@ -52,5 +52,5 @@ Timestamp : 2026-06-22 13:00:00
 - Cybersecurity thinking
 
 ## 👨‍💻 Author
-**Prasanna** — Aspiring Cybersecurity Professional
+** Pandi Prasanna** — Aspiring Cybersecurity Professional
 🔗 [LinkedIn](https://www.linkedin.com/in/pandi-prasanna-p-57b869410)
